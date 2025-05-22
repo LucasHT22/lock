@@ -1,3 +1,10 @@
+---
+title: "Lock"
+author: "@lucas"
+description: "your custom chess clock"
+created_at: "2025-05-19"
+---
+
 # May 19
 
 Searching inspos:)
