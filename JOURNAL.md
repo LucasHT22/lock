@@ -5,6 +5,12 @@ description: "your custom chess clock"
 created_at: "2025-05-19"
 ---
 
+# June 03
+
+- code!
+
+Time spent: 1h 30min
+
 # May 19
 
 Searching inspos:)
