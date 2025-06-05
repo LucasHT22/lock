@@ -8,7 +8,6 @@
 Adafruit_SSD1306 display1(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);
 Adafruit_SSD1306 display2(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);
 
-
 const int button1Pin = 2;
 const int button2Pin = 3;
 const int startPausePin = 4;
@@ -29,21 +28,13 @@ bool lastStartPauseState = HIGH;
 bool lastAddMinState = HIGH;
 
 void setup() {
-  Serial.begin(9600);
-
   pinMode(button1Pin, INPUT_PULLUP);
   pinMode(button2Pin, INPUT_PULLUP);
   pinMode(startPausePin, INPUT_PULLUP);
   pinMode(addMinutePin, INPUT_PULLUP);
-  
-  if (!display1.begin(SSD1306_SWITCHCAPVCC, 0x3C)) {
-    Serial.println(F("OLED 1 falhou"));
-    while (true);
-  }
-  if (!display2.begin(SSD1306_SWITCHCAPVCC, 0x3D)) {
-    Serial.println(F("OLED 2 falhou"));
-    while (true);
-  }
+
+  display1.begin(SSD1306_SWITCHCAPVCC, 0x3C);
+  display2.begin(SSD1306_SWITCHCAPVCC, 0x3D);
 
   display1.clearDisplay();
   display2.clearDisplay();
