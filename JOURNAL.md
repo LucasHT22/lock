@@ -11,6 +11,8 @@ created_at: "2025-05-19"
 - cad!
 check files `code/main.ino` and `lock.stl`
 
+Time spent: 2h
+
 # June 03
 
 - code!
