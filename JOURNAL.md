@@ -5,6 +5,12 @@ description: "your custom chess clock"
 created_at: "2025-05-19"
 ---
 
+# June 05
+
+- code!
+- cad!
+check files `code/main.ino` and `lock.stl`
+
 # June 03
 
 - code!
