@@ -8,6 +8,7 @@ created_at: "2025-05-19"
 # June 10
 
 - glued screens to the case
+
 I burned my finger 
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6b55474da696eeae485d68ec1559d33be95abfe9_img_20250610_151835.jpg)
