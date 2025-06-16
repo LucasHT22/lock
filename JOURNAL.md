@@ -5,6 +5,12 @@ description: "your custom chess clock"
 created_at: "2025-05-19"
 ---
 
+# June 16
+
+- Tried to "jump" connectors to have 2 i2c displays but no success, read docs, there's no option in the display i bought. Buying a TCA9548A.
+
+Time spent: 1h
+
 # June 10
 
 - glued screens to the case
