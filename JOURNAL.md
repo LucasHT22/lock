@@ -11,6 +11,13 @@ created_at: "2025-05-19"
 
 Time spent: 1h
 
+- Didn't break!
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6a2cd70267b8de88e92f83f9aa8abec4145bcb9a_img_20250616_173700729.jpg)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ce400049b0ce6588d0731d98941752829570db43_img_20250616_173619169.jpg)
+
+Time spent: 30 min
+
 # June 10
 
 - glued screens to the case
