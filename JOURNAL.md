@@ -5,6 +5,15 @@ description: "your custom chess clock"
 created_at: "2025-05-19"
 ---
 
+# June 17
+
+- Debug multiplex with 2 i2c
+- https://randomnerdtutorials.com/tca9548a-i2c-multiplexer-esp32-esp8266-arduino/
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/3581e59df474a8c9e3544a14136b7cdd04ad5b90_img_20250617_150825377_hdr.jpg)
+
+Time spent: 1h
+
 # June 16
 
 - Tried to "jump" connectors to have 2 i2c displays but no success, read docs, there's no option in the display i bought. Buying a TCA9548A.
