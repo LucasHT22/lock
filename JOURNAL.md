@@ -12,6 +12,8 @@ created_at: "2025-05-19"
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c368bb616265ce9cf8ea3cdafd5a87bb5eb900c2_img_20250624_150606.jpg)
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/1d15e5ad7846c3a933bb5ac50ca3b2993c4c7698_img_20250624_150400838_hdr.jpg)
 
+Time spent: 1h
+
 # June 17
 
 - Debug multiplex with 2 i2c
